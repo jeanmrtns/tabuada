@@ -1,0 +1,30 @@
+* {
+    margin: 2vh;
+    padding: 0;
+}
+
+body {
+    background: rgb(16, 121, 241);
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    color: black;
+    width: 75vh;
+    background: white;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#input-user label {
+    display: block;
+}
+
+footer {
+    text-align: center;
+}
